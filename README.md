@@ -1,0 +1,2 @@
+# Speech_recognition
+这是一个智能语音识别的项目，它将同chatGpt进行互联，向他询问，会以chatGpt的逻辑回答你的问题
