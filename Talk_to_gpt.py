@@ -7,7 +7,7 @@ import whisper
 # 初始化文本到语音引擎
 engine = pyttsx3.init()
 # 获取openai_key
-openai.api_key = "sk-LZc1RDFMruIM0077dWkFf9VleMz6S9cmZkb9korxruGR1KjX"
+openai.api_key = "sk-LZc1RDFMruIM0077dWk？？？？xruX"
 # 固定提问的时间(s)
 Time = 5
 
