@@ -1,6 +1,6 @@
 import requests
 
-weather_api = "246a19779efed202bc4bc9e35fe137bd"
+weather_api = "246a19779efed202XXXc9e35fe137bd"
 
 
 def get_weather(city):
